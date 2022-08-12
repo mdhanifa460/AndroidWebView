@@ -25,6 +25,7 @@
             android:layout_gravity="center"
             android:background="@drawable/bg_edittext"
             android:maxLines="1"
+            android:text="https://dev.ivymobileapps.com/ivycpg_product_web_devit/Webview/OrderHistory#"
             android:layout_width="match_parent"
             android:layout_height="55dp"
             android:paddingStart="10dp"
