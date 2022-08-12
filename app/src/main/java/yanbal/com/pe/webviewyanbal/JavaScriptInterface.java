@@ -61,6 +61,8 @@ public class JavaScriptInterface {
 
     public void convertBase64StringToPdfAndStoreIt(String base64PDf) throws IOException {
         Log.e("BASE 64", base64PDf);
+
+
         final int notificationId = 1;
         String currentDateTime = DateFormat.getDateTimeInstance().format(new Date());
 
